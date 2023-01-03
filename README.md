@@ -1,20 +1,14 @@
-# Predicting Quality Wines with ML
+# Predicting Quality Wines with Machine Learning
 
-![Quality Count](https://github.com/bharding216/wine-analysis/blob/master/static/histogram%20-%20quality.png?raw=true "Quality Count")
+This project uses various Machine Learning modules to make predictions on whether or not a wine will be 'good'. The dataset includes 11 input variables and a quality score for each wine. 
 
+The motivation behind this project was to get some hands-on experience using different machine learning modules. By completing this project, I learned some useful skills, such as:
+- how to perform Exploratory Data Analysis (EDA), 
+- how to check for null values within the dataset, 
+- how to use the Seaborn visualization library,
+- how to encode output data (as 0 or 1), 
+- how to scale input variables into a Z-score,
+- how to determine which ML model performs best, and lastly
+- how take a ML model and make a prediction. 
 
-
-![pH Plot](https://github.com/bharding216/wine-analysis/blob/master/static/histogram%20-%20pH.png?raw=true "pH Plot")
-
-
-
-![Heat Map](https://github.com/bharding216/wine-analysis/blob/master/static/heat%20map.png?raw=true "Heat Map")
-
-
-<img src="https://github.com/bharding216/wine-analysis/blob/master/static/heat%20map.png" align="left" height="700" width="700">
-
-
-![Classification Plot](https://github.com/bharding216/wine-analysis/blob/master/static/classification%20plot.png?raw=true "Classification Plot")
-
-
-![Performance](https://github.com/bharding216/wine-analysis/blob/master/static/model%20performance%20-%20sample.png?raw=true "Performance")
+I saved my work as a Jupyter Notebook (.ipynb) file so it's easy for you to walk through and see the flow of the project. 
