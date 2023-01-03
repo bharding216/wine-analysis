@@ -11,7 +11,7 @@
 ![Heat Map](https://github.com/bharding216/wine-analysis/blob/master/static/heat%20map.png?raw=true "Heat Map")
 
 
-<img src="https://github.com/bharding216/wine-analysis/blob/master/static/heat%20map.png" align="left" height="200" width="200">
+<img src="https://github.com/bharding216/wine-analysis/blob/master/static/heat%20map.png" align="left" height="1000" width="1000">
 
 
 ![Classification Plot](https://github.com/bharding216/wine-analysis/blob/master/static/classification%20plot.png?raw=true "Classification Plot")
