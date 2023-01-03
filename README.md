@@ -8,7 +8,7 @@
 
 
 
-![Heat Map](https://github.com/bharding216/wine-analysis/blob/master/static/heat%20map.png?raw=true "Heat Map" | width=100)
+![Heat Map](https://github.com/bharding216/wine-analysis/blob/master/static/heat%20map.png?raw=true "Heat Map" | width = "100")
 
 
 ![Classification Plot](https://github.com/bharding216/wine-analysis/blob/master/static/classification%20plot.png?raw=true "Classification Plot")
